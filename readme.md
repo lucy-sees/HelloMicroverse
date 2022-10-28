@@ -21,6 +21,9 @@
 **This project is free to use. You can modify it to match your preference, remove sections that don't apply..**
 
 
-
 ## Authors
-* Lucy Wanjiru Mwangi 
+
+👤 **Lucy Wanjiru Mwangi**
+
+- GitHub: [@lucy-sees](https://github.com/lucy-sees)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lucy-w-mwangi-83a31b11b/)
